@@ -429,23 +429,7 @@ Response          : Analyst Investigation
 
 ---
 
-# 📁 Repository Structure
 
-```text
-Automated-SOC-Triage-Platform/
-│
-├── triage_engine.py
-├── dashboard.py
-├── simulate_attacks.sh
-├── config.example.json
-├── requirements.txt
-├── README.md
-│
-├── rules/
-│   └── local_rules.xml
-│
-└── data/
-    └── .gitkeep
 ```
 
 > Sensitive configuration such as Telegram tokens and API keys must never be committed to GitHub.
