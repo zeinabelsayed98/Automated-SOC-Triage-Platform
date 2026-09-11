@@ -1,0 +1,5 @@
+config.json
+soc_incidents.db
+containment.log
+intel_cache.json
+__pycache__/
